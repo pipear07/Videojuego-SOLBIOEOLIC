@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 997a07faabc4210449d566ca6948b3ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Piedra
+  fontNames:
+  - Piedra
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00d10e1d5848ef2439f1bfcdec6ecd99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
